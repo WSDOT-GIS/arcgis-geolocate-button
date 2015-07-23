@@ -17,9 +17,11 @@
   "license": "Unlicense",
   "ignore": [
     "**/.*",
+    "demo",
     "node_modules",
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "homepage": "https://github.com/WSDOT-GIS/arcgis-geolocate-button"
 }
